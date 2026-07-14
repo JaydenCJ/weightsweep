@@ -1,0 +1,16 @@
+# build artifacts
+/weightsweep
+/dist/
+*.test
+
+# coverage
+coverage.out
+coverage.html
+
+# demo output (created at the repo root or under examples/)
+demo-caches/
+plan*.json
+
+# editor droppings
+*.swp
+.DS_Store
